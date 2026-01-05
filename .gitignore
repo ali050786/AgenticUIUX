@@ -1,0 +1,66 @@
+# System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Trashes
+thumbs.db
+ehthumbs.db
+desktop.ini
+POC_PRD_WITH_CANVAS.md
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# General
+.env
+*.log
+*.local
+
+# Node.js / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.next/
+dist/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+coverage/
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.mypy_cache/
