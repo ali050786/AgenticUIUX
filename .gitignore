@@ -64,3 +64,6 @@ wheels/
 *.egg
 .pytest_cache/
 .mypy_cache/
+
+# Code Collection
+collected_code.md
